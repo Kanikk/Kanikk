@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm an IT student passionate about technology, programming, and continuous learning. I enjoy exploring new tools, solving problems, and building innovative solutions. My areas of interest include software development, cybersecurity, and cloud computing.
 <!--
 **Kanikk/Kanikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
